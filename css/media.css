@@ -1,0 +1,838 @@
+@media(max-width: 992px){
+    .header_logo svg{
+        width: 89px;
+        height: 45px;
+    }
+    .header_menu li a{
+        font-size: 16px;
+    }
+    .header_top button{
+        font-size: 18px;
+        padding: 11.5px 40px;
+    }
+    .header_big--text{
+        font-size: 48px;
+        margin-bottom: 27px;
+    }
+    .header_big--text svg{
+        width: 58.5px;
+        height: 58.5px;
+    }
+    .header_bottom_left .box_text{
+        font-size: 20px;
+        margin-bottom: 33px;
+    }
+    .header_bottom_left button{
+        font-size: 24px;
+        padding: 22px 78.5px;
+    }
+    .sec_title{
+        font-size: 36px;
+    }
+    .header_top{
+        margin-bottom: 81px;
+    }
+    .header{
+        margin: 44px 0 47px 0;
+    }
+    .skills .sec_title{
+        margin-bottom: 58px;
+    }
+    .box_title{
+        font-size: 22px;
+        line-height: 364%;
+    }
+    .box_text{
+        font-size: 16px;
+    }
+    .skil_text{
+        font-size: 14px;
+        margin-top: -15px;
+    }
+    .skills_block{
+        width: 100%;
+        gap: 13px;
+    }
+    .skil_btn{
+        font-size: 18px;
+        padding: 12.5px 41.5px;
+    }
+    .skills_left_box{
+        width: 100%;
+        max-width: 303px;
+        height: 696px;
+        padding: 0 21.5px;
+    }
+    .skills_right_box{
+        width: 616px;
+        gap: 13px;
+    }
+    .right_top{
+        width: 100%;
+        max-width: 616px;
+        gap: 12px;
+    }
+    .right_top > div{
+        width: 50%;
+        max-width: 302px;
+        height: 441px;
+        border-radius: 10px;
+        background: #F5F5F5;
+    }
+    .right_top_right--content .skil_text{
+        margin-bottom: 10px;
+    }
+    .right_bottom--content .skil_text{
+        margin-bottom: 10px;
+    }
+    .right_top_left--content .skil_text{
+        margin-bottom: 10px;
+    }
+    .right_top_left{
+        padding: 5px 10px 20px 50px;
+    }
+    .skills_left_box--content{
+        padding: 4px 0 0 9px;
+    }
+    .right_top_right--content{
+        padding: 0 30px;
+        margin-top: -10px;
+    }
+    .right_bottom--content{
+        padding: 3px 18px 34px 30px;
+    }
+    .right_bottom img{
+        max-width: 254px;
+        height: 169px;
+    }
+    .right_bottom{
+        height: 241px;
+    }
+    .about .container img{
+        width: 336px;
+        height: 336px;
+    }
+    .num{
+        font-size: 30px;
+    }
+    .num_text{
+        font-size: 16px;
+    }
+    .box_end--price{
+        font-size: 24px;
+    }
+    .box_end--age{
+        font-size: 16px;
+    }
+    .contact .container{
+        gap: 100px;
+    }
+    .contact .container img{
+        width: 312px;
+        height: 281px;
+    }
+    .contact_content .sec_title{
+        margin-bottom: 3px;
+    }
+    .contact_content .box_text{
+        margin-bottom: 34px;
+    }
+    .subscribe .input{
+        width: 315px;
+        height: 60px;
+    }
+    .subscribe .input input{
+        font-size: 14px;
+        padding: 20px 0 13px 35px;
+    }
+    .sub{
+        font-size: 16px;
+        padding: 18px 56px;
+    }
+    .footer_end{
+        font-size: 16px;
+    }
+    .footer .container svg{
+        width: 89px;
+        height: 45px;
+    }
+    .ml{
+        margin-left: 10px;
+        max-width: 222px;
+    }
+    #img2{
+        max-width: 267px;
+        margin-bottom: 65px;
+    }
+    #img3{
+        max-width: 242px;
+        margin-left: 20px;
+        margin-bottom: 11px;
+    }
+    .skills{
+        margin-bottom: 140px;
+    }
+}
+@media(max-width: 767px){
+    .header_logo svg{
+        width: 89px;
+        height: 45px;
+    }
+    .header_menu{
+        display: none;
+    }
+    .brgr{
+        display: block;
+    }
+    .header_top button{
+        display: none;
+    }
+    .header_big--text{
+        font-size: 36px;
+        margin-bottom: 25px;
+    }
+    .header_big--text svg{
+        width: 50.5px;
+        height: 50.5px;
+    }
+    .header_bottom_left .box_text{
+        font-size: 16px;
+        margin-bottom: 32px;
+    }
+    .header_bottom_left button{
+        font-size: 18px;
+        padding: 12px 67px;
+    }
+    .sec_title{
+        font-size: 30px;
+    }
+    .header_top{
+        margin-bottom: 68px;
+    }
+    .header{
+        margin: 39px 0 61px 0;
+    }
+    .skills .sec_title{
+        margin-bottom: 50px;
+    }
+    .box_title{
+        font-size: 20px;
+        line-height: 140%;
+    }
+    .box_text{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .skil_text{
+        font-size: 13px;
+        margin-top: -15px;
+        line-height: 20px;
+    }
+    .skills_block{
+        width: 100%;
+        gap: 13px;
+    }
+    .skil_btn{
+        font-size: 15px;
+        padding: 10px 35px;
+    }
+    .skills_left_box{
+        width: 100%;
+        max-width: 303px;
+        height: 696px;
+        padding: 0 21.5px;
+    }
+    .skills_right_box{
+        width: 616px;
+        gap: 13px;
+    }
+    .right_top{
+        width: 100%;
+        max-width: 616px;
+        gap: 12px;
+    }
+    .right_top > div{
+        width: 50%;
+        max-width: 200px;
+        height: 370px;
+        border-radius: 10px;
+        background: #F5F5F5;
+    }
+    .right_top_right--content .skil_text{
+        margin-bottom: 7px;
+    }
+    .right_bottom--content .skil_text{
+        margin-bottom: 10px;
+    }
+    .right_top_left--content .skil_text{
+        margin-bottom: 7px;
+    }
+    .right_top_left--content{
+        padding: 0 6px 0 19px;
+    }
+    .right_top_left{
+        padding: 5px 10px 20px 3px;
+    }
+    .skills_left_box--content{
+        padding: 4px 0 0 9px;
+    }
+    .right_top_right--content{
+        padding: 0 10px;
+        margin-top: -10px;
+    }
+    .right_bottom--content{
+        padding: 3px 18px 26px 20px;
+    }
+    .right_bottom img{
+        max-width: 202px;
+        height: 134px;
+    }
+    .right_bottom{
+        height: 241px;
+    }
+    .about .container img{
+        width: 295px;
+        height: 295px;
+    }
+    .num{
+        font-size: 22px;
+    }
+    .num_text{
+        font-size: 13px;
+    }
+    .box_end--price{
+        font-size: 22px;
+    }
+    .box_end--age{
+        font-size: 14px;
+    }
+    .contact .container{
+        gap: 38px;
+    }
+    .contact .container img{
+        width: 312px;
+        height: 281px;
+    }
+    .contact_content .sec_title{
+        margin-bottom: 1px;
+    }
+    .contact_content .box_text{
+        margin-bottom: 26px;
+    }
+    .subscribe .input{
+        width: 250px;
+        height: 50px;
+    }
+    .subscribe .input input{
+        font-size: 12px;
+        padding: 16px 24px;
+    }
+    .sub{
+        font-size: 13px;
+        padding: 14px 39.5px;
+    }
+    .footer_end{
+        font-size: 13px;
+    }
+    .footer .container svg{
+        width: 89px;
+        height: 45px;
+    }
+    .ml{
+        margin-left: 10px;
+        max-width: 222px;
+    }
+    #img2{
+        max-width: 267px;
+        margin-bottom: 65px;
+    }
+    #img3{
+        max-width: 242px;
+        margin-left: 20px;
+        margin-bottom: 11px;
+    }
+    .skills{
+        margin-bottom: 78px;
+    }
+    .price_box{
+        width: 30%;
+        height: 505px;
+    }
+}
+@media(max-width: 575px){
+    .header_logo svg{
+        width: 89px;
+        height: 45px;
+    }
+    .header_bottom{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column-reverse;
+    }
+    .header_bottom > div{
+        width: 100%;
+        text-align: center;
+    }
+    .header_top button{
+        display: none;
+    }
+    .header_big--text{
+        font-size: 36px;
+        margin-bottom: 25px;
+    }
+    .header_big--text svg{
+        display: none;
+    }
+    .header_bottom_left .box_text{
+        font-size: 16px;
+        margin-bottom: 32px;
+    }
+    .header_bottom_left button{
+        font-size: 18px;
+        padding: 12px 67px;
+        border-radius: none;
+    }
+    .sec_title{
+        font-size: 30px;
+    }
+    .header_top{
+        margin-bottom: 68px;
+    }
+    .header{
+        margin: 39px 0 61px 0;
+    }
+    .skills .sec_title{
+        margin-bottom: 50px;
+    }
+    .box_title{
+        font-size: 20px;
+        line-height: 140%;
+    }
+    .box_text{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .skil_text{
+        font-size: 13px;
+        margin-top: -15px;
+        line-height: 20px;
+    }
+    .skills_block{
+        width: 100%;
+        gap: 13px;
+    }
+    .skil_btn{
+        font-size: 15px;
+        padding: 10px 35px;
+    }
+    .skills_left_box{
+        width: 100%;
+        max-width: 303px;
+        height: 696px;
+        padding: 0 21.5px;
+    }
+    .skills_right_box{
+        width: 616px;
+        gap: 13px;
+    }
+    .right_top{
+        width: 100%;
+        max-width: 616px;
+        gap: 12px;
+    }
+    .right_top > div{
+        width: 50%;
+        max-width: 200px;
+        height: 370px;
+        border-radius: 10px;
+        background: #F5F5F5;
+    }
+    .right_top_right--content .skil_text{
+        margin-bottom: 7px;
+    }
+    .right_bottom--content .skil_text{
+        margin-bottom: 10px;
+    }
+    .right_top_left--content .skil_text{
+        margin-bottom: 7px;
+    }
+    .right_top_left--content{
+        padding: 0 6px 0 19px;
+    }
+    .right_top_left{
+        padding: 5px 10px 20px 3px;
+    }
+    .skills_left_box--content{
+        padding: 4px 0 0 9px;
+    }
+    .right_top_right--content{
+        padding: 0 10px;
+        margin-top: -10px;
+    }
+    .right_bottom--content{
+        padding: 3px 18px 26px 20px;
+    }
+    .right_bottom img{
+        max-width: 202px;
+        height: 134px;
+    }
+    .right_bottom{
+        height: 241px;
+    }
+    .about .container img{
+        width: 295px;
+        height: 295px;
+    }
+    .num{
+        font-size: 22px;
+    }
+    .num_text{
+        font-size: 13px;
+    }
+    .box_end--price{
+        font-size: 22px;
+    }
+    .box_end--age{
+        font-size: 14px;
+    }
+    .contact .container{
+        gap: 38px;
+    }
+    .contact .container img{
+        width: 312px;
+        height: 281px;
+    }
+    .contact_content .sec_title{
+        margin-bottom: 1px;
+    }
+    .contact_content .box_text{
+        margin-bottom: 26px;
+    }
+    .subscribe .input{
+        width: 370px;
+        height: 50px;
+    }
+    .subscribe .input input{
+        font-size: 12px;
+        padding: 16px 24px;
+    }
+    .sub{
+        font-size: 16px;
+        margin-left: -30px;
+        padding: 14px 45.5px;
+    }
+    .footer_end{
+        font-size: 13px;
+    }
+    .footer .container svg{
+        width: 89px;
+        height: 45px;
+    }
+    .ml{
+        margin-left: 10px;
+        max-width: 222px;
+    }
+    #img2{
+        max-width: 267px;
+        margin-bottom: 65px;
+    }
+    #img3{
+        max-width: 242px;
+        margin-left: 20px;
+        margin-bottom: 11px;
+    }
+    .skills{
+        margin-bottom: 78px;
+    }
+    .price_box{
+        width: 30%;
+        height: 505px;
+    }
+    .skills_block{
+        display: none;
+    }
+    .resp{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+    .resp > div{
+        width: 47%;
+    }
+    .about .container{
+        flex-direction: column-reverse;
+    }
+    .about .container img{
+        width: 352px;
+        height: 352px;
+    }
+    .about_content{
+        text-align: center;
+    }
+    .price_block{
+        text-align: center;
+        flex-direction: column;
+    }
+    .price_box{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 400px;
+    }
+    .price_box img{
+        margin: 0 auto;
+    }
+    .box_end{
+        text-align: center;
+    }
+    .contact .container{
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media(max-width: 320px){
+    .header_logo svg{
+        width: 89px;
+        height: 45px;
+    }
+    .header_bottom{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column-reverse;
+    }
+    .header_bottom > div{
+        width: 100%;
+        text-align: center;
+    }
+    .header_top button{
+        display: none;
+    }
+    .header_big--text{
+        font-size: 36px;
+        margin-bottom: 25px;
+    }
+    .header_big--text svg{
+        display: none;
+    }
+    .header_bottom_left .box_text{
+        font-size: 16px;
+        margin-bottom: 32px;
+    }
+    .header_bottom_left button{
+        font-size: 18px;
+        padding: 12px 67px;
+        border-radius: none;
+    }
+    .sec_title{
+        font-size: 30px;
+    }
+    .header_top{
+        margin-bottom: 68px;
+    }
+    .header{
+        margin: 39px 0 61px 0;
+    }
+    .skills .sec_title{
+        margin-bottom: 50px;
+    }
+    .box_title{
+        font-size: 20px;
+        line-height: 140%;
+    }
+    .box_text{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .skil_text{
+        font-size: 13px;
+        margin-top: -15px;
+        line-height: 20px;
+    }
+    .skills_block{
+        width: 100%;
+        gap: 13px;
+    }
+    .skil_btn{
+        font-size: 15px;
+        padding: 10px 35px;
+    }
+    .skills_left_box{
+        width: 100%;
+        max-width: 303px;
+        height: 696px;
+        padding: 0 21.5px;
+    }
+    .skills_right_box{
+        width: 616px;
+        gap: 13px;
+    }
+    .right_top{
+        width: 100%;
+        max-width: 616px;
+        gap: 12px;
+    }
+    .right_top > div{
+        width: 50%;
+        max-width: 200px;
+        height: 370px;
+        border-radius: 10px;
+        background: #F5F5F5;
+    }
+    .right_top_right--content .skil_text{
+        margin-bottom: 7px;
+    }
+    .right_bottom--content .skil_text{
+        margin-bottom: 10px;
+    }
+    .right_top_left--content .skil_text{
+        margin-bottom: 7px;
+    }
+    .right_top_left--content{
+        padding: 0 6px 0 19px;
+    }
+    .right_top_left{
+        padding: 5px 10px 20px 3px;
+    }
+    .skills_left_box--content{
+        padding: 4px 0 0 9px;
+    }
+    .right_top_right--content{
+        padding: 0 10px;
+        margin-top: -10px;
+    }
+    .right_bottom--content{
+        padding: 3px 18px 26px 20px;
+    }
+    .right_bottom img{
+        max-width: 202px;
+        height: 134px;
+    }
+    .right_bottom{
+        height: 241px;
+    }
+    .about .container img{
+        width: 250px;
+        height: 250px;
+    }
+    .num{
+        font-size: 22px;
+    }
+    .num_text{
+        font-size: 13px;
+    }
+    .box_end--price{
+        font-size: 22px;
+    }
+    .box_end--age{
+        font-size: 14px;
+    }
+    .contact .container{
+        gap: 38px;
+    }
+    .contact .container img{
+        width: 312px;
+        height: 281px;
+    }
+    .contact_content .sec_title{
+        margin-bottom: 1px;
+    }
+    .contact_content .box_text{
+        margin-bottom: 26px;
+    }
+    .subscribe{
+        display: flex;
+        flex-direction: column;
+    }
+    .subscribe .input{
+        width: 370px;
+        height: 50px;
+    }
+    .subscribe .input input{
+        font-size: 12px;
+        padding: 16px 24px;
+    }
+    .sub{
+        font-size: 16px;
+        width: 100%;
+        margin-left: -30px;
+        padding: 14px 45.5px;
+    }
+    .footer_end{
+        font-size: 13px;
+    }
+    .footer .container svg{
+        width: 89px;
+        height: 45px;
+    }
+    .ml{
+        margin-left: 10px;
+        max-width: 222px;
+    }
+    #img2{
+        max-width: 267px;
+        margin-bottom: 65px;
+    }
+    #img3{
+        max-width: 242px;
+        margin-left: 20px;
+        margin-bottom: 11px;
+    }
+    .skills{
+        margin-bottom: 78px;
+    }
+    .price_box{
+        width: 30%;
+        height: 505px;
+    }
+    .skills_block{
+        display: none;
+    }
+    .resp{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+    .resp > div{
+        width: 100%;
+    }
+    .about .container{
+        flex-direction: column-reverse;
+    }
+    .about .container img{
+        width: 352px;
+        height: 352px;
+    }
+    .about_content{
+        text-align: center;
+    }
+    .price_block{
+        text-align: center;
+        flex-direction: column;
+    }
+    .price_box{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 400px;
+    }
+    .price_box img{
+        margin: 0 auto;
+    }
+    .box_end{
+        text-align: center;
+    }
+    .contact .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .footer .container{
+        display: flex;
+        flex-direction: column;
+    }
+}
